@@ -22,7 +22,7 @@ namespace New_folder
 
         public static void Main(string[] args)
         {
-            Console.WriteLine(" ..... Compare Area Square ...... ");
+            Console.WriteLine(" ..... Compare Area Square test ...... ");
             Area[] area = new Area[2];
             for (int i = 0; i < 2; i++)
             {
